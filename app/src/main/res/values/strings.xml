@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Mercado Livre</string>
     <string name="txt_search">Buscar no Mercado Livre</string>
-    <string name="txt_localizacao">Enviar para Samuel Gomes - Rua Android Studio 10</string>
+    <string name="txt_localizacao">Enviar para Priscila Dev - Rua Sem numero </string>
     <string name="inspirado_no_que_tem_visto">Inspirado no último visto</string>
     <string name="ver_mais">Ver mais</string>
     <string name="preco_produto">R$ 256,95</string>
