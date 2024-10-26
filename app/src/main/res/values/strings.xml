@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Mercado_Livre_Clone</string>
+    <string name="app_name">Mercado Livre</string>
+    <string name="txt_search">Buscar no Mercado Livre</string>
+    <string name="txt_localizacao">Enviar para Samuel Gomes - Rua Android Studio 10</string>
+    <string name="inspirado_no_que_tem_visto">Inspirado no último visto</string>
+    <string name="ver_mais">Ver mais</string>
+    <string name="preco_produto">R$ 256,95</string>
+    <string name="descricao">Descrição</string>
+    <string name="frete_gratis">Frete grátis</string>
+    <string name="compre_mais">Compre mais...</string>
+    <string name="dias_gratis">Dias Grátis</string>
+    <string name="desconto">Desconto</string>
+    <string name="empresa">Empresa</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="nome_do_usuario">Nome do Usuário</string>
+    <string name="inicio">Inicio</string>
+    <string name="buscar">Buscar</string>
+    <string name="notificacoes">Notificações</string>
+    <string name="minhas_compras">Minhas compras</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="nivel_0_mercado_pontos">Nivel 0 - Mercado Pontos</string>
+    <string name="welcome_email">Olá, email@teste.com</string>
+    <string name="tambem_te_interessa">Também te interessa</string>
+    <string name="frete_gratis_premium_card">em milhões de produtos a partir de R$60</string>
 </resources>
